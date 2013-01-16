@@ -1,6 +1,7 @@
 # settings that apply in dev
 
 from ..settings import *
+from random import random
 from www import version
 
 DEBUG = False
